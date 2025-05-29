@@ -20,6 +20,7 @@ Historias de usuarios
 *	Como usuario curioso, quiero poder hacer pequeños retos o juegos interactivos sobre temas específicos, para aprender de forma entretenida y mantenerme motivado.
   
 * Como estudiante con dificultades de conexión, quiero poder descargar el contenido y acceder sin internet, para estudiar sin depender todo el tiempo de estar en línea.
+  
 Matias Astrada: Apasionado por el hardware y el rendimiento de las PCs, me gusta saber cómo funciona cada componente y optimizar hasta el último detalle. También me interesa la programación, especialmente cuando está bien hecha, clara y sin errores. Me gusta que tanto el código como el hardware tengan lógica, orden y propósito.
 
 
