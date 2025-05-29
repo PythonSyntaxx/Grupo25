@@ -1,4 +1,4 @@
-# Grupo43
+# Grupo 25
 
 Matias Astrada: Apasionado por el hardware y el rendimiento de las PCs, me gusta saber cómo funciona cada componente y optimizar hasta el último detalle. También me interesa la programación, especialmente cuando está bien hecha, clara y sin errores. Me gusta que tanto el código como el hardware tengan lógica, orden y propósito.
 
