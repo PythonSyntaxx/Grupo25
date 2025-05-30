@@ -1,0 +1,5 @@
+git init - Crea un repositorio Git vacío en el directorio actual.
+git clone [URL] - Clona un repositorio remoto.
+git add . - Agrega todos los archivos al área de preparación (staging).
+git commit -m "mensaje" - Crea un commit con los cambios preparados.
+git push origin nombre-rama - Sube los commits al repositorio remoto.
