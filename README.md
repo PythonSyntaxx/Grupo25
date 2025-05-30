@@ -56,4 +56,4 @@ Alejandro Corvalan : Diseñador UX/UI con experiencia en productos digitales, en
 
 Ariel Orlando Fernandez: 
 
-Axel Rodrigo Leonel Cortez: Hola, mi nombre es Axel Cortez y desde que descubrí la programación, supe que era algo que me apasionaba profundamente. Me encanta entender cómo funcionan las cosas por dentro, resolver problemas y construir soluciones desde cero. Para mí, programar no es solo escribir código, es una forma de pensar, de crear y de transformar ideas en algo real. Empecé con lenguajes como Python, que me ayudaron a comprender la lógica de manera sencilla y clara, y desde entonces no he dejado de aprender.
+Axel Rodrigo Leonel Cortez: Mi nombre es Axel Cortez y desde que descubrí la programación, supe que era algo que me apasionaba profundamente. Me encanta entender cómo funcionan las cosas por dentro, resolver problemas y construir soluciones desde cero. Para mí, programar no es solo escribir código, es una forma de pensar, de crear y de transformar ideas en algo real. Empecé con lenguajes como Python, que me ayudaron a comprender la lógica de manera sencilla y clara, y desde entonces no he dejado de aprender.
