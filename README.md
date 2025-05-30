@@ -66,6 +66,6 @@ Integrantes del equipo :
 
 Alejandro Corvalan : Diseñador UX/UI con experiencia en productos digitales, enfocado en mejorar la experiencia del usuario. Cuento con conocimientos en HTML y CSS, lo que me permite colaborar eficientemente con equipos de desarrollo.
 
-Ariel Orlando Fernandez: 
+Ariel Orlando Fernandez: Hola, soy Ariel Fernández, tengo 36 años y soy de Córdoba. Me gusta todo lo relacionado con el desarrollo web, especialmente crear páginas que se vean bien y funcionen mejor. Esta etapa me está ayudando a aprender haciendo, que es como más disfruto crecer en este mundo digital.
 
 Axel Rodrigo Leonel Cortez: Mi nombre es Axel Cortez y desde que descubrí la programación, supe que era algo que me apasionaba profundamente. Me encanta entender cómo funcionan las cosas por dentro, resolver problemas y construir soluciones desde cero. Para mí, programar no es solo escribir código, es una forma de pensar, de crear y de transformar ideas en algo real. Empecé con lenguajes como Python, que me ayudaron a comprender la lógica de manera sencilla y clara, y desde entonces no he dejado de aprender.
