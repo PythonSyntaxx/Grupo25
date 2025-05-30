@@ -24,6 +24,7 @@ Nos dimos cuenta de que a veces es difícil:
 Con este proyecto, queremos que sea más fácil conseguir ayuda, tener material útil y sentirnos parte de una comunidad de estudio.
 
 Posibles Usuarios (¿Para quién sería esto?)
+
 Creemos que esto sería útil para:
 
 Estudiantes: De secundaria o de los primeros años de la universidad, que necesitan un apoyo extra.
