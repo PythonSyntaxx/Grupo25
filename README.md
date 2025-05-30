@@ -5,7 +5,7 @@
 |-----------------------|--------------------------------|-----------------------------------------|-------------------------------------------|
 |       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
 |       Eric Matías        |        Astrada          |   matiasastrada482@gmail.com             |  https://github.com/Matias038 |
-|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+|       Axel Rodrigo        |        Cortez          |   rodrigocortez803@gmail.com             |  [https://github.com/AxelCortez11](https://github.com/AxelCortez11) |
 |       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
 |       Alejandro        |        Corvalan          |   alejandromcorva@gmail.com             |  [https://github.com/corval-LC](https://github.com/Corval-LC) |
 
