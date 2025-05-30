@@ -45,7 +45,7 @@ Historias de usuarios
 *	Como usuario curioso, quiero poder hacer pequeños retos o juegos interactivos sobre temas específicos, para aprender de forma entretenida y mantenerme motivado.
   
 * Como estudiante con dificultades de conexión, quiero poder descargar el contenido y acceder sin internet, para estudiar sin depender todo el tiempo de estar en línea.
-  
+ 
 Integrantes del equipo :
 
  Kevin Astrada: conocimientos básicos en Git y GitHub, uso de Issues, redacción de funcionalidades y manejo del tablero Kanban.
