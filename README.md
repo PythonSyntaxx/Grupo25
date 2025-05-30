@@ -34,3 +34,5 @@ Integrantes del equipo :
  Kevin Astrada: conocimientos básicos en Git y GitHub, uso de Issues, redacción de funcionalidades y manejo del tablero Kanban.
 
  Matias Astrada: Apasionado por el hardware y el rendimiento de las PCs, me gusta saber cómo funciona cada componente y optimizar hasta el último detalle. También me interesa la programación, especialmente cuando está bien hecha, clara y sin errores. Me gusta que tanto el código como el hardware tengan lógica, orden y propósito.
+
+Alejandro Corvalan : Diseñador UX/UI con experiencia en productos digitales, enfocado en mejorar la experiencia del usuario. Cuento con conocimientos en HTML y CSS, lo que me permite colaborar eficientemente con equipos de desarrollo.
