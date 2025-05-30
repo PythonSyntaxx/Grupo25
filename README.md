@@ -18,7 +18,16 @@ Nos dimos cuenta de que a veces es difícil:
 
 Con este proyecto, queremos que sea más fácil conseguir ayuda, tener material útil y sentirnos parte de una comunidad de estudio.
 
+Posibles Usuarios (¿Para quién sería esto?)
+Creemos que esto sería útil para:
+
+Estudiantes: De secundaria o de los primeros años de la universidad, que necesitan un apoyo extra.
+Profesores: Que quieran compartir materiales o ayudar a responder preguntas.
+Cualquier persona: Que quiera aprender algo nuevo y necesite un lugar para practicar
+Esto ofrece múltiples beneficios: permite entender mejor los temas de clase a través de explicaciones claras y accesibles, brinda un espacio para resolver dudas y fomenta un aprendizaje colaborativo y más divertido. Además, crea una comunidad de apoyo donde nadie se sienta solo al estudiar. Para quienes impulsan el proyecto, representa una gran oportunidad de desarrollar habilidades, reforzar conocimientos y generar un impacto positivo en su entorno educativo.
+
 Historias de usuarios
+
 *	Como estudiante de secundaria, quiero poder hacer preguntas en un foro para obtener ayuda de otros compañeros o tutores, para no quedarme con dudas cuando estudio solo.
   
 *	Como estudiante universitario de primer año, quiero acceder a resúmenes y guías claras de estudio, para entender mejor los temas cuando los materiales del curso no son suficientes.
