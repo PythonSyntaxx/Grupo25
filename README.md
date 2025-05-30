@@ -1,3 +1,14 @@
+# INTEGRANTES:
+
+
+|         Nombre        |        Apellido                |            Correo Electrónico           |                   Github                  |
+|-----------------------|--------------------------------|-----------------------------------------|-------------------------------------------|
+|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+
 # Rubro EDUCACIÓN
 
 #  Proyecto Educativo: ¡Aprendiendo Juntos! 
