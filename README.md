@@ -1,5 +1,10 @@
 # Rubro EDUCACIÓN
 
+#  Proyecto Educativo: ¡Aprendiendo Juntos! 
+
+## Nuestra Idea Principal
+Queremos crear algo para ayudar a los estudiantes, como nosotros, a entender mejor lo que aprenden en la escuela o la universidad. La idea es que sea un lugar fácil de usar, donde podamos encontrar cosas que nos ayuden a estudiar y donde podamos preguntar si tenemos dudas. Queremos que el aprendizaje sea más divertido y que no nos sintamos solos cuando algo nos cuesta. 
+
 ##Lo que Pensamos que Podría Hacer:
 
 Como estamos empezando a pensar en esto, estas son algunas cosas que nos gustaría que tuviera nuestro proyecto:
@@ -48,3 +53,5 @@ Integrantes del equipo :
  Matias Astrada: Apasionado por el hardware y el rendimiento de las PCs, me gusta saber cómo funciona cada componente y optimizar hasta el último detalle. También me interesa la programación, especialmente cuando está bien hecha, clara y sin errores. Me gusta que tanto el código como el hardware tengan lógica, orden y propósito.
 
 Alejandro Corvalan : Diseñador UX/UI con experiencia en productos digitales, enfocado en mejorar la experiencia del usuario. Cuento con conocimientos en HTML y CSS, lo que me permite colaborar eficientemente con equipos de desarrollo.
+
+Ariel Orlando Fernandez: 
