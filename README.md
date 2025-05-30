@@ -1,13 +1,11 @@
-# Grupo 25
-Hola soy kevin
+Lo que Pensamos que Podría Hacer:
 
+Como estamos empezando a pensar en esto, estas son algunas cosas que nos gustaría que tuviera nuestro proyecto:
+* Un lugar para hacer preguntas: Como un foro sencillo donde podamos preguntar sobre materias y que otros compañeros o futuros "tutores" (quizás profesores) nos ayuden.
+* Archivos útiles: Un espacio donde podamos subir y descargar resúmenes, guías o videos cortos que nos ayuden a entender mejor.
+* Pequeños retos o juegos: Para practicar lo aprendido de una forma más divertida.
+* Información de contacto para "tutores": Una forma sencilla de encontrar a alguien que pueda dar una mano con algún tema. 
 
-Matias Astrada: Apasionado por el hardware y el rendimiento de las PCs, me gusta saber cómo funciona cada componente y optimizar hasta el último detalle. También me interesa la programación, especialmente cuando está bien hecha, clara y sin errores. Me gusta que tanto el código como el hardware tengan lógica, orden y propósito.
+Integrantes del equipo :
 
-
-conceptos de git
-echo "# Comandos Git Básicos" > conceptos/comandosGit.txt
-echo "git status -> Ver estado del repositorio" >> conceptos/comandosGit.txt
-echo "git add . -> Añadir cambios" >> conceptos/comandosGit.txt
-echo "git commit -m 'mensaje' -> Guardar cambios" >> conceptos/comandosGit.txt
-echo "git push origin rama -> Subir cambios" >> conceptos/comandosGit.txt
+ Kevin Astrada: conocimientos básicos en Git y GitHub, uso de Issues, redacción de funcionalidades y manejo del tablero Kanban.
