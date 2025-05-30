@@ -7,7 +7,7 @@
 |       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
 |       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
 |       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
-|       Ariel Orlando        |        Fernandez          |   lic.arielfernandez.hys@gmail.com             |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
+|       Alejandro        |        Corvalan          |   alejandromcorva@gmail.com             |  [https://github.com/corval-LC](https://github.com/Corval-LC) |
 
 # Rubro EDUCACIÓN
 
